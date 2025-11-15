@@ -1,4 +1,4 @@
-# Hangman (Python)
+# Word guessing game (Python)
 
 A console-based Hangman game built in Python. Includes multiple difficulty levels, input validation, and ASCII art to visualize progress as the game unfolds.  
 
